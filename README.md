@@ -1,2 +1,2 @@
 # hello-world
-This is a repository for learning purposes
+All your Base belong to us, belong, belong to us!
